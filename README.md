@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Desarrollo de soluciones de software en HOLOSTECH.<br><br>🌱 I’m currently learning: Profundizando en Arquitectura Backend y C++ en el ITU - UNCuyo.<br><br>👯 I’m looking to collaborate on: Proyectos escalables de Backend, integración Cloud y Bases de Datos complejas.<br><br>🤔 I’m looking for help with: Patrones de diseño avanzados en Java y optimización de bajo nivel.<br><br>💬 Ask me about: Linux (Advanced), AWS (Certified Cloud Practitioner), Python/NodeJS o implementación de modelos ML (YOLO/PyTorch).<br><br>⚡ Fun fact: Soy un todoterreno; puedo entrenar una IA, configurar tu servidor en Linux y maquetar el Frontend, pero mi corazón está en el Backend.
+🔭 I’m currently working on: Desarrollo de soluciones de software en HOLOSTECH.<br><br>🌱 I’m currently learning: Profundizando en Arquitectura Backend y C++ en el ITU - UNCuyo.<br><br>👯 I’m looking to collaborate on: Proyectos escalables de Backend, integración Cloud y Bases de Datos complejas.<br><br>💬 Ask me about: Linux (Advanced), AWS (Certified Cloud Practitioner), Python/NodeJS o implementación de modelos ML (YOLO/PyTorch).<br><br>⚡ Fun fact: Soy un todoterreno; puedo entrenar una IA, configurar tu servidor en Linux y maquetar el Frontend, pero mi corazón está en el Backend.
 
 
 ## 🌐 Socials:
