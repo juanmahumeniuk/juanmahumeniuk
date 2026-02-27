@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Desarrollo de soluciones de software en HOLOSTECH.<br><br>🌱 I’m currently learning: Profundizando en Arquitectura Backend y C++ en el ITU - UNCuyo.<br><br>👯 I’m looking to collaborate on: Proyectos escalables de Backend, integración Cloud y Bases de Datos complejas.<br><br>💬 Ask me about: Linux (Advanced), AWS (Certified Cloud Practitioner), Python/NodeJS o implementación de modelos ML (YOLO/PyTorch).<br><br>⚡ Fun fact: Soy un todoterreno; puedo entrenar una IA, configurar tu servidor en Linux y maquetar el Frontend, pero mi corazón está en el Backend.
-
+🔭 I’m currently working on: Desarrollo de soluciones de software en HOLOSTECH.<br><br>🌱 I’m currently learning: Profundizando en Arquitectura Backend y C++ en el ITU - UNCuyo.<br><br>👯 I’m looking to collaborate on: Proyectos escalables de Backend, integración Cloud y Bases de Datos complejas.<br><br>💬 Ask me about: Linux (Advanced), AWS (Certified Cloud Practitioner), Python/NodeJS o implementación de modelos ML (YOLO/PyTorch).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-manuel-humeniuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmanuelhumeniuk@gmail.com) 
