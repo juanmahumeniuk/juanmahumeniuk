@@ -1,0 +1,35 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: juanmahumeniuk
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publish snake to output branch folder
+        run: |
+          mkdir -p output
+          cp dist/snake.svg output/snake.svg
+          cp dist/snake-dark.svg output/snake-dark.svg
+
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: output
+          clean: true
