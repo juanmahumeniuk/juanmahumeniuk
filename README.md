@@ -72,7 +72,6 @@ Linux avanzado · AWS · Python/Node · ML en edge
 | [HumeniukCineSpring](https://github.com/juanmahumeniuk/HumeniukCineSpring) | `TypeScript` | 2026-05-21 |
 | [SpringBoot---API-REST](https://github.com/juanmahumeniuk/SpringBoot---API-REST) | `Java` | 2026-05-13 |
 | [Voxel-Engine](https://github.com/juanmahumeniuk/Voxel-Engine) | `Java` | 2026-04-22 |
-| [AlienSysMon](https://github.com/juanmahumeniuk/AlienSysMon) | `C++` | 2026-03-31 |
 
 <!-- RECENT_REPOS:END -->
 
