@@ -67,9 +67,9 @@ Linux avanzado · AWS · Python/Node · ML en edge
 
 | Repo | Lenguaje | Último push |
 | ---- | -------- | ----------- |
-| [egi-inventario-seguro](https://github.com/juanmahumeniuk/egi-inventario-seguro) | `JavaScript` | 2026-06-06 |
+| [egi-inventario-seguro](https://github.com/juanmahumeniuk/egi-inventario-seguro) | `JavaScript` | 2026-06-11 |
+| [HIGHMIND_WEB](https://github.com/juanmahumeniuk/HIGHMIND_WEB) | `JavaScript` | 2026-06-09 |
 | [Kubernetes](https://github.com/juanmahumeniuk/Kubernetes) | `—` | 2026-06-03 |
-| [HIGHMIND_WEB](https://github.com/juanmahumeniuk/HIGHMIND_WEB) | `PHP` | 2026-05-31 |
 | [HumeniukCineSpring](https://github.com/juanmahumeniuk/HumeniukCineSpring) | `TypeScript` | 2026-05-21 |
 | [SpringBoot---API-REST](https://github.com/juanmahumeniuk/SpringBoot---API-REST) | `Java` | 2026-05-13 |
 
