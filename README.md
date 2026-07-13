@@ -67,11 +67,11 @@ Linux avanzado · AWS · Python/Node · ML en edge
 
 | Repo | Lenguaje | Último push |
 | ---- | -------- | ----------- |
+| [java-desafios-entrevista](https://github.com/juanmahumeniuk/java-desafios-entrevista) | `Java` | 2026-07-07 |
 | [egi-inventario-seguro](https://github.com/juanmahumeniuk/egi-inventario-seguro) | `TypeScript` | 2026-06-23 |
 | [HIGHMIND_WEB](https://github.com/juanmahumeniuk/HIGHMIND_WEB) | `JavaScript` | 2026-06-09 |
 | [Kubernetes](https://github.com/juanmahumeniuk/Kubernetes) | `—` | 2026-06-03 |
 | [HumeniukCineSpring](https://github.com/juanmahumeniuk/HumeniukCineSpring) | `TypeScript` | 2026-05-21 |
-| [SpringBoot---API-REST](https://github.com/juanmahumeniuk/SpringBoot---API-REST) | `Java` | 2026-05-13 |
 
 <!-- RECENT_REPOS:END -->
 
