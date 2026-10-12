@@ -67,11 +67,11 @@ Linux avanzado · AWS · Python/Node · ML en edge
 
 | Repo | Lenguaje | Último push |
 | ---- | -------- | ----------- |
+| [contador_truco](https://github.com/juanmahumeniuk/contador_truco) | `Dart` | 2026-10-11 |
 | [vigia_api](https://github.com/juanmahumeniuk/vigia_api) | `TypeScript` | 2026-09-24 |
 | [java-desafios-entrevista](https://github.com/juanmahumeniuk/java-desafios-entrevista) | `Java` | 2026-07-07 |
 | [egi-inventario-seguro](https://github.com/juanmahumeniuk/egi-inventario-seguro) | `TypeScript` | 2026-06-23 |
 | [HIGHMIND_WEB](https://github.com/juanmahumeniuk/HIGHMIND_WEB) | `JavaScript` | 2026-06-09 |
-| [Kubernetes](https://github.com/juanmahumeniuk/Kubernetes) | `—` | 2026-06-03 |
 
 <!-- RECENT_REPOS:END -->
 
