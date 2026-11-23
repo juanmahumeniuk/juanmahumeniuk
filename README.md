@@ -67,11 +67,11 @@ Linux avanzado · AWS · Python/Node · ML en edge
 
 | Repo | Lenguaje | Último push |
 | ---- | -------- | ----------- |
+| [VigiaApp-wiki](https://github.com/juanmahumeniuk/VigiaApp-wiki) | `—` | 2026-11-17 |
 | [repaso-java](https://github.com/juanmahumeniuk/repaso-java) | `Java` | 2026-11-09 |
 | [vigia_api](https://github.com/juanmahumeniuk/vigia_api) | `TypeScript` | 2026-11-03 |
 | [contador_truco](https://github.com/juanmahumeniuk/contador_truco) | `Dart` | 2026-10-11 |
 | [java-desafios-entrevista](https://github.com/juanmahumeniuk/java-desafios-entrevista) | `Java` | 2026-07-07 |
-| [egi-inventario-seguro](https://github.com/juanmahumeniuk/egi-inventario-seguro) | `TypeScript` | 2026-06-23 |
 
 <!-- RECENT_REPOS:END -->
 
